@@ -19,6 +19,8 @@ The filters to search by are located below the introduction to the webpage.
 
 * To use multiple filters, follow the instructions for each of the search criteria in any order, one after the other. You will see the table update with each filter added.
 If the table is empty, there is no data for the information inputted in the search criteria.
+
+![UFO](https://github.com/vvinci21/UFOs/blob/7f49887d23f028ab7891b8b832729938fd5de776/static/images/UFO_SS.png)
  
 ## Summary: 
 One area that can be improved is that when the search criteria retruned no reults there was no way of knowing the search was performed.
